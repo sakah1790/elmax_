@@ -1,0 +1,17 @@
+Фотографии кроватей пользователя — распределение по порядку списка:
+01 — Альба — images/beds/01.jpg
+02 — Амелия с электронным основанием — images/beds/02.jpg
+03 — Барлетта — images/beds/03.jpg
+04 — Венеция — images/beds/04.jpg
+05 — Империя — images/beds/05.jpg
+06 — Капри — images/beds/06.jpg
+07 — Катания — images/beds/07.jpg
+08 — Кронон — images/beds/08.jpg
+09 — Латина — images/beds/09.png
+10 — Лигурия — images/beds/10.jpg
+11 — Модена — images/beds/11.jpg
+12 — Неаполь — images/beds/12.jpg
+13 — Равенна — images/beds/13.jpg
+14 — Римини — images/beds/14.jpg
+
+Для всех 14 карточек кроватей основное изображение и галерея используют соответствующую фотографию кровати.

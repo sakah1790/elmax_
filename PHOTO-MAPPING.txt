@@ -1,0 +1,23 @@
+ELMAX photo update — user supplied photo mapping
+
+01 — Лигурия (catalog spelling; user wrote Лагурия)
+02 — Латина
+03-04 — Ансти (model not found in current official catalog; kept as source photos)
+05 — Барлетта
+06 — Лигурия
+07-08 — Латина
+09 — Барлетта
+10 — Модена
+11 — Барлетта
+12-13 — Империя
+14 — Альба
+
+Product cards updated: Лигурия, Латина, Барлетта, Модена, Империя, Альба.
+Hero image uses photo 04. All 14 original photos are preserved in images/user-beds.
+
+Official catalog image links were added as primary images for bed products where the source URL pattern is available. Uploaded/local WebP photos are retained as fallbacks for the mapped beds.
+
+15 — Розолина (uploaded photo: elmaks5.1-620x433 (1).jpg)
+16 — Феррара (uploaded photo: krovatferrara1-620x433.jpg)
+17 — Флоренция (uploaded photo: florencija1-620x433.jpg)
+Product cards updated: Розолина, Феррара, Флоренция.
